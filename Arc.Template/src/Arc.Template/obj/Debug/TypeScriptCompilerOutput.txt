@@ -1,0 +1,12 @@
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.component.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.component.js.map
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.module.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.module.js.map
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\main.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\main.js.map
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.component.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.component.js.map
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.module.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\app.module.js.map
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\main.js
+C:\Users\j.stewart\Source\Repos\NetCore-Angular\Arc.Template\src\Arc.Template\wwwroot\app\main.js.map

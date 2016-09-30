@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{510F8375-24CA-4903-B2A4-9F92BBB50821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF5A9210-C52B-4C3A-9BE4-135F3E6F09F3}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Arc.Template", "src\Arc.Template\Arc.Template.xproj", "{3530BAA2-9675-4047-B0E0-1CAEEC1B687F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3530BAA2-9675-4047-B0E0-1CAEEC1B687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3530BAA2-9675-4047-B0E0-1CAEEC1B687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3530BAA2-9675-4047-B0E0-1CAEEC1B687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3530BAA2-9675-4047-B0E0-1CAEEC1B687F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3530BAA2-9675-4047-B0E0-1CAEEC1B687F} = {510F8375-24CA-4903-B2A4-9F92BBB50821}
+	EndGlobalSection
+EndGlobal
