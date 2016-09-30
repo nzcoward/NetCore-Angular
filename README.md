@@ -20,3 +20,7 @@ npm config set https-proxy http://proxy.company.com:8080
 Also, copy the .typingsrc file from the Additional folder into c:\users\youraccountname and modify it to have your proxy address (as indicated in the file) and you're away. 
 
 This will only be required if you need to run npm install for other packages.
+
+##Credits
+This blog was of great help to get started and the initial TS and NPM config is derived from here.
+http://asp.net-hacker.rocks/2016/08/08/setup-angular2-typescript-aspnetcore-in-visualstudio.html
