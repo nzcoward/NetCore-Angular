@@ -17,4 +17,6 @@ npm config set proxy http://proxy.company.com:8080
 npm config set https-proxy http://proxy.company.com:8080
 ```
 
-Also, copy the .typingsrc file from the Additional folder into c:\users\youraccountname and modify it to have your proxy address where it tells you, and you're away. This will only be required if you 
+Also, copy the .typingsrc file from the Additional folder into c:\users\youraccountname and modify it to have your proxy address (as indicated in the file) and you're away. 
+
+This will only be required if you need to run npm install for other packages.
