@@ -2,7 +2,9 @@
 
 @Component({
     selector: 'my-app',
-    template: '<h1>My first Angular App in Visual Studio</h1>'
+    template: '<app-title [subtitle]="subtitle"></app-title>'
 })
 
-export class AppComponent { }
+export class AppComponent {
+    subtitle = '(v1)';
+}
