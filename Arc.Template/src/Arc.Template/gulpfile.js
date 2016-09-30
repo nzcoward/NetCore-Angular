@@ -17,3 +17,7 @@ gulp.task('restore', function () {
         './node_modules/bootstrap/dist/**/*.*'
     ], { base: './node_modules' }).pipe(gulp.dest('./wwwroot/libs/'));
 });
+
+//gulp.task('bundle', function () {
+
+//});

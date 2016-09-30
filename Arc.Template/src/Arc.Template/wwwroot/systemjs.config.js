@@ -36,6 +36,8 @@
         //packages[pkgName] = { main: 'index.js', defaultExtension: 'js' };
     });
 
+    packages['@questions/all'] = { main: 'app/questions/bundles/questions.bundle.js', defaultExtension: 'js' };
+
     var config = {
         paths: paths,
         map: map,
